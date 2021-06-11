@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EricHier1
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in data science, programming, building awesome tools
 - 🌱 I’m currently learning data science, python, R, Juypter Notebooks, ML, AI
 - 💞️ I’m looking to collaborate on creating and utilizing interesting datasets, having fun
