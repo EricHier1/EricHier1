@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eric
-- 👀 I’m interested in data science, programming, building awesome tools
-- 🌱 I’m currently learning data science, python, Javascript, AI/ML
-- 💞️ I’m looking to collaborate on creating and implementing AI/ML enabled technolgies
+- 👀 I’m interested in data science, programming, DevSecOps
+- 🌱 I’m currently learning DevSecOps, python, linux
 - 📫 How to reach me @ [https://www.linkedin.com/in/erichierholzer/]
 
 <!---
