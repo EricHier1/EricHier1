@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Eric
-- 👀 I’m interested in data science, programming, DevSecOps
-- 🌱 I’m currently learning DevSecOps, python, linux
-- 📫 How to reach me @ [https://www.linkedin.com/in/erichierholzer/]
-
-<!---
-EricHier1/EricHier1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Hello! I'm Eric, a self-taught developer with a focus on crafting Python applications. Continuously learning and growing, I strive to create meaningful solutions that make a difference. Feel free to explore my repositories to get a glimpse of my journey and projects. I truly appreciate collaboration, learning from others, and receiving feedback. Let's work together and make cool stuff, becuase we can! 💻🌟
