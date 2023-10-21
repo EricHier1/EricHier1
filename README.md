@@ -1,1 +1,1 @@
-🚀 Hello! I'm Eric, a self-taught developer with a focus on crafting Python applications. Continuously learning and growing, I strive to create meaningful solutions that make a difference. Feel free to explore my repositories to get a glimpse of my journey and projects. I truly appreciate collaboration, learning from others, and receiving feedback. Let's work together and make cool stuff, becuase we can! 💻🌟
+🚀 Hello! I'm Eric, learning to orogram and having fun
